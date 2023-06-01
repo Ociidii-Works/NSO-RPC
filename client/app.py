@@ -1,3 +1,4 @@
+#!/bin/python3
 # Created by Deltaion Lee (MCMi460) on Github
 
 from qtpy.QtCore import *
